@@ -38,8 +38,8 @@ W trakcie gry czekają Was wyzwania i czasami będziecie poddawani testom. Przyd
 ### Ekwipunek:
 Przykładowe klasy ekwipunku, które niejako ulegają przekształceniu podczas podróży w czasie lub podróży do innego świata.
 
-| Klasa ekwipunku | Implementacje |.                  |.                         |
-|---------------------------------|-------------------|--------------------------|
+| Klasa ekwipunku | Implementacje | .                 | .                        |
+| ------------------------------- | ----------------- | ------------------------ |
 | .               | Medival       | Współczesność     | Sci-Fi                   |
 | Pojazd          | koń / łódź    | samochód / statek | samolot / prom kosmiczny |
 | Broń            | miecz         | pistolet          | miecz świetlny           |
